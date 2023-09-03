@@ -1,0 +1,33 @@
+@media (min-width: 768px) {
+    .logo-container {
+        flex-direction: row;
+    }
+
+    .logo-bar-container {
+        width: 50%;
+    }
+
+    .burguer-container {
+        display: none;
+    }
+
+    .menu-container {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+    }
+    
+    ul {
+        display: flex;
+        width: 45%;
+        justify-content: space-evenly;
+    }
+};
+
+@media (min-width: 1024px) {
+    
+}
+
+@media (min-width: 1200px) {
+    
+}
